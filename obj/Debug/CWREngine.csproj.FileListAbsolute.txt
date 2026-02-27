@@ -1,0 +1,7 @@
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\bin\Debug\CWREngine.exe.config
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\bin\Debug\CWREngine.exe
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\bin\Debug\CWREngine.pdb
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\obj\Debug\CWREngine.exe
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\obj\Debug\CWREngine.pdb
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\obj\Debug\CWREngine.csproj.AssemblyReference.cache
+C:\Users\vova43\Desktop\TEMP_X\CWREngine_pre\CWREngine\obj\Debug\CWREngine.csproj.CoreCompileInputs.cache
